@@ -1,0 +1,33 @@
+{
+  "name": "custom-event-manager",
+  "version": "1.0.0",
+  "description": "A custom event creation, subscription wrapper library",
+  "main": "dist/javascript/custom-event-manager.min.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "karma test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidaudhi/custom-event-manager.git"
+  },
+  "keywords": [
+    "event",
+    "events",
+    "event manager",
+    "custom event",
+    "custom events"
+  ],
+  "author": "https://github.com/sidaudhi/custom-event-managergraphs/contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sidaudhi/custom-event-manager/issues"
+  },
+  "homepage": "https://github.com/sidaudhi/custom-event-manager#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^1.5.3",
+    "gulp-util": "^3.0.7"
+  }
+}
