@@ -20,11 +20,11 @@ This will copy the custom-event-manager files into your components folder, along
 ### Load the script files in your application:
 #### bower
 ```html
-<script type="text/javascript" src="bower_components/custom-event-manager/dist/javascript/custom-event-manager.js"></script>
+<script type="text/javascript" src="bower_components/custom-event-manager/dist/javascript/custom-event-manager.min.js"></script>
 ```
 #### npm
 ```html
-<script type="text/javascript" src="node_modules/custom-event-manager/dist/javascript/custom-event-manager.js"></script>
+<script type="text/javascript" src="node_modules/custom-event-manager/dist/javascript/custom-event-manager.min.js"></script>
 ```
 
 ### Register Static Custom Events
